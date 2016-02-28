@@ -59,7 +59,6 @@ https://plus.google.com/102658703990850475314/posts/XS5jjEApJYV
 <img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/2.png"><br>
 <img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/3.png"><br>
 <img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/4.png"><br>
-<img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/5.png"><br>
 <img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/6.png"><br>
 
 ## ios ##
@@ -67,12 +66,7 @@ https://plus.google.com/102658703990850475314/posts/XS5jjEApJYV
 <img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/ios2.png"><br>
 <img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/ios3.png"><br>
 <img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/ios4.png"><br>
-<img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/ios_cer_to_p12_1.png"><br>
-<img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/ios_cer_to_p12_2.png"><br>
-<img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/ios_cer_to_p12_3.png"><br>
-<img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/ios_cer_to_p12_4.png"><br>
-<img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/ios_cer_to_p12_5.png"><br>
-<img src="https://raw.githubusercontent.com/cranberrygame/cordova-plugin-pushnotification-parsepushnotification/master/doc/ios_cer_to_p12_6.png"><br>
+
 Configuring your App ID for Development Push Notifications<br>
 https://www.parse.com/tutorials/ios-push-notifications<br>
 How do I make a .p12<br>
