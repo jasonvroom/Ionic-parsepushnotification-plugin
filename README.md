@@ -123,8 +123,6 @@ window.parsepushnotification.unsubscribe('Game');//parameter: channel
 
 # Test #
 
-[![](http://img.youtube.com/vi/xX4znfZx8HE/0.jpg)](https://www.youtube.com/watch?v=xX4znfZx8HE&feature=youtu.be "Youtube")
-
 You can also run following test apk.
 https://dl.dropboxusercontent.com/u/186681453/pluginsforcordova/parsepushnotification/apk.html
 
